@@ -9,13 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : JT
-tagline: Tagline
-author : Jason Templeton
+title : Hacker Colloquium
+tagline: ''
+author :
   name : Jason Templeton
   email : jason@jasontempleton.com
   github : hackercolloquium
   twitter : hackercolloquium
+  linkedin : http://www.linkedin.com/in/jasontempleton
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
