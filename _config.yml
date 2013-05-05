@@ -9,9 +9,9 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Hacker Colloquium
-tagline: 
-author :
+title : JT
+tagline: Tagline
+author : Jason Templeton
   name : Jason Templeton
   email : jason@jasontempleton.com
   github : hackercolloquium

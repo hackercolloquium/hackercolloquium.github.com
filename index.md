@@ -3,7 +3,6 @@ layout: page
 title: Hacker Colloquium
 tagline: 
 ---
-{% include JB/setup %}
 
 ####hack·er
 _Noun_
