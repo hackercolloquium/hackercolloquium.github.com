@@ -3,22 +3,8 @@ layout: default
 title: "first post"
 description:
 category: blog
-tags: [test, blog]
+tags: [blog]
 ---
 {% include JB/setup %}
 
-Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
-c nisi mattis mollis tempus id nulla. In varius fermentum posuere. Vivamus \
-suscipit accumsan arcu ac ullamcorper. Aliquam adipiscing, ante non eleifen\
-d blandit, nunc diam vulputate augue, eu convallis lorem lacus in lacus. Cu\
-rabitur ultricies ultrices diam, vel tincidunt dui rhoncus a. Vivamus at sa\
-pien in turpis consequat pharetra sit amet quis elit.
-
-kjhlkjhlkjhfsa
-fdsf
-f
-
-
-dfssdafsdf
-
-sfsdfasdfsdf
+I have been thinking about this sort of forum for a while now. I wanted to create a place where developers can hone their craft. Feel comfortable in an environment where they are not afraid to discuss ideas and feel as though they want to better themselves. As a kid I always loved watching movies about really smart people who created something wonderful or achieved something extraordinary. This always inspired me and I wanted to create an environment where I felt that way everyday. I feel that the software development field has lost it's way and has become stagnant (Javascript ecosphere excluded). If there was an environment where there is a group of people pushing the field forward, that's where I want to be.
